@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bitcoinkash
 - 👀 I’m interested in projects related to Fintech, Blockchain and AI and looking to collaborate
-- 🧑‍💻 I'm experienced in JavaScript · GitHub · Node.js · React.js · Express.js . PostgreSQL
-- 🌱 I’m currently learning Solidity and Python
+- 🧑‍💻 I'm experienced in JavaScript · GitHub · Node.js · React.js · Express.js . PostgreSQL . MondoDB
+- 🌱 I’m currently working on Solidity and Python
 - 📫 You can reach me at https://www.linkedin.com/in/suhailparry/
 
 <!---
